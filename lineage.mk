@@ -7,7 +7,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := cm_sholes
+PRODUCT_NAME := lineage_sholes
 PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := sholes
 PRODUCT_MODEL := Droid
